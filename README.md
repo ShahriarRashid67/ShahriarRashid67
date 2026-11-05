@@ -4,13 +4,9 @@
 
 ## About me
 
-I'm a Senior Software Engineer at Enosis Solutions in Dhaka, Bangladesh. I build event-driven services and enjoy digging into the parts of a system that slow people down, from a CPU-bound Node.js job to a frontend build that takes too long.
+I'm a Senior Software Engineer at Enosis Solutions in Dhaka, Bangladesh. My work spans backend services, cloud infrastructure, and data processing. I build event-driven systems with Node.js and Redis, secure file delivery on Azure, and use Python to process and validate data.
 
-## What I work on
-
-- **Backend services.** I build event-driven services with Node.js and Redis and automate recurring workflows like report delivery.
-- **Azure infrastructure.** I use Managed Identity to authenticate services and Azure Front Door to deliver files while keeping Blob Storage endpoints private.
-- **Data processing.** I build Python workflows that process CSV and Parquet files and validate relationships across datasets.
+I enjoy figuring out why a system has become slow or hard to change. That might mean reworking a database query, simplifying a legacy code path, or improving how a service authenticates. I also mentor junior engineers through code reviews and help them think through design decisions.
 
 ## Tech stack
 
