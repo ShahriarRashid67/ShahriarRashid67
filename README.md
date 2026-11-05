@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a Senior Software Engineer II at Enosis Solutions in Dhaka, Bangladesh. I build event-driven services and enjoy digging into the parts of a system that slow people down, from a CPU-bound Node.js job to a frontend build that takes too long.
+I'm a Senior Software Engineer at Enosis Solutions in Dhaka, Bangladesh. I build event-driven services and enjoy digging into the parts of a system that slow people down, from a CPU-bound Node.js job to a frontend build that takes too long.
 
 ## What I work on
 
