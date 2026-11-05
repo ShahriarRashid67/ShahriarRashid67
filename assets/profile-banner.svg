@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="246" viewBox="0 0 960 246" role="img" aria-labelledby="title description">
   <title id="title">Md Shahriar Rashid</title>
-  <desc id="description">Developer tools and JavaScript experiments</desc>
+  <desc id="description">Senior Software Engineer II at Enosis Solutions</desc>
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M0 24V0H24" fill="none" stroke="#26374a" stroke-width="1"/>
@@ -20,9 +20,9 @@
     <path d="M54 204H654" stroke="#364b62"/>
     <rect x="54" y="204" width="112" height="2" fill="#b8ef90"/>
     <circle cx="61" cy="58" r="5" fill="#b8ef90"/>
-    <text x="77" y="64" fill="#b8ef90" font-family="Consolas, monospace" font-size="17" letter-spacing="2">DEVELOPER TOOLS</text>
+    <text x="77" y="64" fill="#b8ef90" font-family="Consolas, monospace" font-size="17" letter-spacing="2">BACKEND &amp; CLOUD</text>
     <text x="51" y="132" fill="#f5f8fb" font-family="Arial, sans-serif" font-size="58" font-weight="700">Md Shahriar Rashid</text>
-    <text x="54" y="171" fill="#c4d2e1" font-family="Arial, sans-serif" font-size="24">VS Code extensions &amp; JavaScript experiments</text>
+    <text x="54" y="171" fill="#c4d2e1" font-family="Arial, sans-serif" font-size="24">Senior Software Engineer II · Enosis Solutions</text>
     <path d="M751 60h-11v125h11m166-125h11v125h-11" fill="none" stroke="#8ba1b6" stroke-width="2"/>
     <path d="M766 161h138" stroke="#8ba1b6" stroke-width="2"/>
     <g fill="#b8ef90">

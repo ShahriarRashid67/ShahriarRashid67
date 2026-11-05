@@ -1,22 +1,29 @@
-![Md Shahriar Rashid | Developer tools and JavaScript experiments](assets/profile-banner.svg)
+![Md Shahriar Rashid | Senior Software Engineer II at Enosis Solutions](assets/profile-banner.svg)
 
 **[Portfolio](https://www.shahriarrashid.com/)** · **[LinkedIn](https://www.linkedin.com/in/shahriarrashid67/)**
 
-I build small tools for everyday developer workflows and use this space to explore how things work, from VS Code extensions to parallel computation in Node.js.
+## About me
 
-## Featured project
+I'm a Senior Software Engineer II at Enosis Solutions in Dhaka, Bangladesh. I build event-driven services and enjoy digging into the parts of a system that slow people down, from a CPU-bound Node.js job to a frontend build that takes too long.
 
-### [Claude Usage Bar](https://github.com/ShahriarRashid67/claude-usage-bar)
+## What I work on
 
-Track your Claude Code 5-hour and 7-day usage limits in the VS Code status bar. See when each limit resets and whether you're on pace to hit it before then.
+- **Backend performance.** I cut execution time for CPU-bound workloads by 55–60% using Node.js worker threads and designed event-driven services with Node.js and Redis.
+- **Cloud security.** I moved Azure Storage authentication from connection strings to Managed Identity and built a file delivery pipeline that keeps Blob Storage endpoints private.
+- **Frontend tooling.** I migrated two React apps from Create React App to Vite, cutting build times by 30–40%.
 
-[![Claude Usage Bar showing normal, warning, and critical usage in VS Code](https://raw.githubusercontent.com/ShahriarRashid67/claude-usage-bar/main/images/states.png)](https://github.com/ShahriarRashid67/claude-usage-bar)
+## Tech stack
 
-[View source](https://github.com/ShahriarRashid67/claude-usage-bar) · [Download the latest release](https://github.com/ShahriarRashid67/claude-usage-bar/releases/latest)
-
-## More code
-
-| Project | What's inside |
+| Area | Technologies |
 | --- | --- |
-| [Node.js Worker Threads](https://github.com/ShahriarRashid67/node-worker-threads) | A JavaScript benchmark comparing single-threaded and parallel execution for a CPU-bound task. |
-| [Data Structures & Algorithms](https://github.com/ShahriarRashid67/Data-Structure-and-Algorithms) | C++ implementations and exercises covering data structures, graphs, and strings. |
+| **Languages** | JavaScript, TypeScript, Python, C, C++ |
+| **Backend & testing** | Node.js, Express.js, Socket.IO, REST APIs, pytest |
+| **Frontend** | React, Redux, Next.js, Vite, Material UI, Tailwind CSS |
+| **Data & messaging** | PostgreSQL, Redis, Firebase, SQLite |
+| **Cloud & DevOps** | Azure Blob Storage, Azure Front Door, Docker, Nginx, Git, GitLab |
+
+## Beyond work
+
+Competitive programming got me into software engineering. At IIUC, I taught data structures and algorithms in three bootcamps, mentored students as a teaching assistant, and wrote problems for university programming contests.
+
+[Codeforces](https://codeforces.com/profile/Blanzer) · [CodeChef](https://www.codechef.com/users/blanzer) · [LeetCode](https://leetcode.com/Shahriar_Rashid/)
