@@ -8,9 +8,9 @@ I'm a Senior Software Engineer at Enosis Solutions in Dhaka, Bangladesh. I build
 
 ## What I work on
 
-- **Backend performance.** I cut execution time for CPU-bound workloads by 55–60% using Node.js worker threads and designed event-driven services with Node.js and Redis.
-- **Cloud security.** I moved Azure Storage authentication from connection strings to Managed Identity and built a file delivery pipeline that keeps Blob Storage endpoints private.
-- **Frontend tooling.** I migrated two React apps from Create React App to Vite, cutting build times by 30–40%.
+- **Backend services.** I build event-driven services with Node.js and Redis and automate recurring workflows like report delivery.
+- **Azure infrastructure.** I use Managed Identity to authenticate services and Azure Front Door to deliver files while keeping Blob Storage endpoints private.
+- **Data processing.** I build Python workflows that process CSV and Parquet files and validate relationships across datasets.
 
 ## Tech stack
 
