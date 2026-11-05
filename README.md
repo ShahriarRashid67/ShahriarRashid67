@@ -22,4 +22,3 @@ I enjoy figuring out why a system has become slow or hard to change. That might 
 
 Competitive programming got me into software engineering. At IIUC, I taught data structures and algorithms in three bootcamps, mentored students as a teaching assistant, and wrote problems for university programming contests.
 
-[Codeforces](https://codeforces.com/profile/Blanzer) · [CodeChef](https://www.codechef.com/users/blanzer) · [LeetCode](https://leetcode.com/Shahriar_Rashid/)
